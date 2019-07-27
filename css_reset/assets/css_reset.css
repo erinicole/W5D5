@@ -1,0 +1,23 @@
+   
+   
+   
+   html, body, section, h1, h2, p{  
+    margin: inherit;
+    border: inherit;
+    padding: inherit;
+    }
+
+    body {
+      padding: ;
+      border: 10px solid red;
+    }
+
+    ul li {
+      color: purple;
+    }
+
+    body text {
+      line-height: 1.5px;
+    }
+
+    
